@@ -1,0 +1,11 @@
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\bin\Debug\Prueba_DilanHurtado.exe.config
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\bin\Debug\Prueba_DilanHurtado.exe
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\bin\Debug\Prueba_DilanHurtado.pdb
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.csproj.AssemblyReference.cache
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.Form1.resources
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.Properties.Resources.resources
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.csproj.GenerateResource.cache
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.exe
+C:\Users\dilan\source\repos\Prueba_DilanHurtado\Prueba_DilanHurtado\obj\Debug\Prueba_DilanHurtado.pdb
